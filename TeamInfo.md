@@ -1,11 +1,9 @@
-# team085-QueryousGeorge
+# QueryousGeorge
 
 ## Basic Information
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-085        |
-| TeamName    |     QueryousGeorge     |
 | Captain     |    Jack Thomas Moran   |
 | Captain     |   jackm6@illinois.edu  |
 | Member1     |       Ben Goldman      |
